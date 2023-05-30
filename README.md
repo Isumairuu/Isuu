@@ -1,4 +1,5 @@
 # El Fekak Ismail
-[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=elf-is&show_icons=true&theme=transparent&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=elf-is&show_icons=true&theme=transparent&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=elf-is&show_icons=true&theme=transparent&count_private=true&locale=en&layout=compact" alt="most used languages" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=elf-is&show_icons=true&theme=transparent&count_private=true&locale=en" alt="stats" /></p>
